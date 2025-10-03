@@ -323,7 +323,7 @@
             <input type="text" id="editTitle" name="title">
             <input type="text" id="editDescription" name="description" required>
             <button type="submit">Update Task</button>
-            <button type="button" onclick="closeEditModal()">Cancel and press</button>
+            <button type="button" onclick="closeEditModal()">Cancel</button>
         </form>
     </div>
 
